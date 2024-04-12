@@ -1,5 +1,5 @@
-# from fyers_apiv3 import fyersModel
-# from fyers_apiv3.FyersWebsocket import data_ws
+from fyers_apiv3 import fyersModel
+from fyers_apiv3.FyersWebsocket import data_ws
 from oracle.liveData.utils.instrument import InstrumentFinder
 import requests
 import json
